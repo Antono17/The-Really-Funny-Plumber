@@ -1,1 +1,3 @@
 # The-Really-Funny-Plumber
+<img width="634" height="469" alt="Screenshot 2026-05-05 at 2 52 51 PM" src="https://github.com/user-attachments/assets/5adec763-3c5e-4ce7-9001-576ac1031dea" />
+What inspirred my game is just finding patterns. I love finding patterns in games so i wanted to make this happen. This game was created in a college class called, MM/AN 40A Introduction to Game Design in Berkeley City College, Spring 2026. The Name of this game is 'The-Really-Funny-Plumber' and the gameplay and how it looks was just inspiration of games of learning and seeing patterns while playing. Keeping it low/dark colors. I hope people enjoy the patterns in this game to develop critical thinking and remembering skills. 
